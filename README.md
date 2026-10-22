@@ -94,7 +94,7 @@ Python + Power Automate pipeline connecting Excel, SharePoint, and Outlook — w
 - 📧 [chandanapenumuchu31@gmail.com](mailto:chandanapenumuchu31@gmail.com)
 - 📞 346-492-2627
 - 💼 [LinkedIn](https://www.linkedin.com/in/chandana-penumuchu/)
-- 🌐 [Portfolio](#)
+- 🌐 [Portfolio](https://chandanapenumuchu31.github.io/chandanapenumuchu31/)
 - 📍 MI, USA · Open to Relocate
 
 ---
